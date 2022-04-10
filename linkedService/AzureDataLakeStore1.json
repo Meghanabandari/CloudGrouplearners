@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStore1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://cloudgroup.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "7afb9e22-9308-4186-8e29-ea231ff3baf7",
+			"subscriptionId": "649cb576-0fab-47b2-a58a-981dae5799e7",
+			"resourceGroupName": "cloudgrouplearners"
+		}
+	}
+}
